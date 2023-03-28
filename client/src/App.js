@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {HashRouter as Router} from 'react-router-dom';
 
 import {RoutesPage} from './pages/routes-page/RoutesPage';
-import {Spinner} from '@/components/ui/spinner/Spinner';
+import {Spinner} from './components/ui/spinner/Spinner';
 
 const App = () => {
   const [loading, setLoading] = useState(true);
