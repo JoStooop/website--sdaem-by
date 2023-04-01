@@ -1,7 +1,7 @@
 # Diploma project for the "Hawking School" internship.
 
 ## Description
-"SDAEM.BY is a website for renting apartments, cottages, saunas, cars, and also features a page with up-to-date news. Find your perfect accommodation or car in our wide catalog and stay informed of the latest events with our news feed."
+SDAEM.BY is a website for renting apartments, cottages, saunas, cars, and also features a page with up-to-date news. Find your perfect accommodation or car in our wide catalog and stay informed of the latest events with our news feed.
 
 ## Deploy link:
 - [Open website](https://website-sdaem-gsjqd7uuy-jostooop.vercel.app/)
