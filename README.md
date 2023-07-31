@@ -1,5 +1,5 @@
 <div align="center">
-      <h1>Diploma project for the "Hawking School" internship.</h1>
+      <h1></h1>
         <p>SDAEM.BY is a website for renting apartments, cottages, saunas, cars, and also features a page with up-to-date news. Find your perfect accommodation or car in our wide catalog and stay informed of the latest events with our news feed.</p>
 </div>
 
